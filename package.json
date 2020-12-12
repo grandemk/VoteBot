@@ -21,7 +21,7 @@
     "bot"
   ],
   "author": "Kevin Grandemange and Quentin Arguillère",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/grandemk/VoteBot/issues"
   },
