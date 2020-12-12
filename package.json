@@ -1,0 +1,29 @@
+{
+  "name": "votebot",
+  "version": "0.0.1",
+  "description": "Discord Poll Bot",
+  "main": "index.js",
+  "dependencies": {
+    "@typeit/discord": "^4.0.8",
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grandemk/VoteBot.git"
+  },
+  "keywords": [
+    "discord",
+    "vote",
+    "bot"
+  ],
+  "author": "Kevin Grandemange and Quentin Arguillère",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grandemk/VoteBot/issues"
+  },
+  "homepage": "https://github.com/grandemk/VoteBot#readme"
+}
