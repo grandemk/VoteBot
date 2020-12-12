@@ -4,10 +4,13 @@
   "description": "Discord Poll Bot",
   "main": "index.js",
   "dependencies": {
+    "@rushstack/ts-command-line": "^4.7.8",
     "@typeit/discord": "^4.0.8",
     "discord.js": "^12.5.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.14.13"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
